@@ -1,4 +1,4 @@
-HammerTime
+Hammertime
 ======
 
 
@@ -12,10 +12,9 @@ Hammertime supports Goldsource mapping but is rather incomplete and buggy. Pleas
 
 - [TrenchBroom](https://github.com/kduske/TrenchBroom) (as of writing, TrenchBroom has some small Support for Half-Life, but is dependent on Community Contributions to expand the Support for Half Life, so its not complete right now.)
 - Valve Hammer Editor (Found in the steam Library which you get when you own Half Life 1)
-- [JACK](http://jack.hlfx.ru/en/download.html) (the free version, don't pay for it)
+- [JACK](http://jack.hlfx.ru/en/download.html) (the free version, don't pay for it, since updates are not there yet)
 - Older editors such as QuArK, BSP, etc.
 
 The Hammertime Editor is licensed under BSD-3.
 
-[1]: http://sledge-editor.com/
 [2]: https://github.com/mellinoe/veldrid/
