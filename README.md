@@ -10,7 +10,8 @@ It is written in .NET and uses [Veldrid][2] for rendering, with DirectX 10.
 
 Hammertime supports Goldsource mapping, and is constantly being updated to add more Features, some of these Features include:
 - Prefab Support
-- Prop2Map Support (Not prefabs)
+- SMD Prop Making Support for 3D Models
+- J.A.C.K Features
 - Realtime Lighting (Not yet confirmed)
 - (Additional Features WIP))
 
